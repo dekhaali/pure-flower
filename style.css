@@ -15,7 +15,7 @@ margin-top:300px;
 .image-design{
    padding:0px 240px 3000px 1045px;
     width: 435px;
-height: 600px;
+height: auto;
 margin-top:420px;
 flex-shrink: 0;
 }
@@ -52,3 +52,39 @@ p{
     text-align:center;
 }
 /*header third part*/
+ul{
+    display:flex;
+    list-style:none;
+    text-align: center;
+    margin:0px 450px;
+    display:flex;
+   
+}
+#list-1{
+    width: 360px;
+    max-height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 100px 30px 0px 30px;
+    margin-right:10px;
+    background-position: center bottom;
+}
+
+#list-2{
+    width: 340px;
+    max-height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+   margin-right:10px;
+   background-position: center bottom;
+   padding:30px 0px 0px 0px;
+}
+#list-3{
+    color:red;
+    width: 420px;
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding-right:24px;
+
+}
