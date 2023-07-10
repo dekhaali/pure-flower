@@ -1,0 +1,54 @@
+/*Common shared styles*/
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+/*header related styles*/
+/*header first part*/
+.text-design{
+margin-left:300px;
+position:absolute;
+margin-top:300px;
+
+}
+.image-design{
+   padding:0px 240px 3000px 1045px;
+    width: 435px;
+height: 600px;
+margin-top:420px;
+flex-shrink: 0;
+}
+.header-design{
+    width: 1920px;
+height: 850px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+display:flex;
+}
+.button-design{
+    background-color:#ff7d7d;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+padding:15px;
+border:none;
+border-radius: 15px;
+
+}
+h1{
+    margin-bottom:50px;
+}
+p{
+    margin-bottom: 40px;
+    font-size:larger;
+}
+/*header second part*/
+.second-part{
+    text-align:center;
+    margin-top:100px;
+}
+.para-style{
+    text-align:center;
+}
+/*header third part*/
